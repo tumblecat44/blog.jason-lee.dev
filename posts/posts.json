@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "filename": "2024-12-15-hello-world.md",
+      "title": "Hello World",
+      "date": "2024-12-15"
+    },
+    {
+      "filename": "2024-12-14-my-first-post.md",
+      "title": "My First Blog Post",
+      "date": "2024-12-14"
+    }
+  ]
+}
